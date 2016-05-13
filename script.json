@@ -2,8 +2,8 @@
     "HELLO": "Hello. Get started by saying BOT.",
     "HI": "Hi. Get started by saying BOT.",
     "BOT": "Hi there!\nI’m the personal bot of Nikolai, an IT Generalist from Cavite.\n![niko](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/niko.jpg)\nWant to know more about Nikolai? - by the way, you can call him 'Niko' for short %[Know more about Niko](postback:learn_about_niko) %[One random fact!](postback:random_fact)",
-    "KNOW MORE ABOUT NIKO": "I can tell you a bunch of stuff about Esther. Let me know what’s interesting to you.\n%[Childhood](postback:childhood)\n%[Education](postback:education)\n%[Career](postback:career)\nWhen you're ready you can always say 'connect' to talk to Niko.\n%[Connect with Niko](postback:connect_with_niko)",
-    "CONNECT WITH NIKO": "Cool! He loves getting intros from NikolaiBot. You can either message him via LinkedIn or connect directly to with him via e-mail.\n%[Message via LinkedIn](postback:message_using_linkedin)\n%[Connect using E-mail](postback:message_using_email)",
+    "KNOW MORE ABOUT NIKO": "I can tell you a bunch of stuff about Niko. Let me know what’s interesting to you.\n%[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)\nWhen you're ready you can always say 'connect' to talk to Niko. %[Connect with Niko](postback:connect_with_niko)",
+    "CONNECT WITH NIKO": "Cool! He loves getting intros from NikolaiBot. You can either message him via LinkedIn or connect directly to with him via e-mail. %[Message via LinkedIn](postback:message_using_linkedin) %[Connect using E-mail](postback:message_using_email)",
     "I LOVE YOU": "Awh! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, NikolaiBot is back."
