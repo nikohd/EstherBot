@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hello. Get started by saying BOT."
+    "HELLO": "Hello. Get started by saying BOT.",
     "HI": "Hi. Get started by saying BOT.",
     "BOT": "Hi there!\nI’m the personal bot of Nikolai, an IT Generalist from Cavite.\n![niko](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/niko.jpg)\nWant to know more about Nikolai? - by the way, you can call him 'Niko' for short %[Why IT Generalist?](postback:about_it_generalist) %[Learn about Niko](postback:learn_about_niko) %[One random fact!](postback:random_fact)",
     "WHAT'S UP?": "... in the sky?",
