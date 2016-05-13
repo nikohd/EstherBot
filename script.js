@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('So you want to learn about Esther? Just say HELLO to get started.')
+            return bot.say('So you want to learn about Niko? Just say HELLO to get started.')
                 .then(() => 'speak');
         }
     },
@@ -27,6 +27,7 @@ module.exports = new Script({
                 switch (upperText) {
                     case "CONNECT ME":
                         return bot.setProp("silent", true);
+                        return bot.say(`Beep Boop.. Sorry, I'm having some trouble...`).then(() => 'speak');
                     case "DISCONNECT":
                         return bot.setProp("silent", false);
                     default:
@@ -44,7 +45,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that.`).then(() => 'speak');
+                    return bot.say(`So, I'm good at structured conversations but stickers, emoji and sentences still confuse me. Say 'more' to chat about something else.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
