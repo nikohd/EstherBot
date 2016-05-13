@@ -6,7 +6,7 @@
     "WHY IT GENERALIST?": "He believes that he has been many specialists.\nHe told me that the 'believe' key is to adapt and to keep learning new technology.\nHe has a great passion for learning new things.\nHe could provide you with the most IT skills you need to get the job done. %[In-depth meaning](https://en.wikipedia.org/wiki/Information_Technology_Generalist) %[Learn about Niko](postback:learn_about_niko)",
     "LEARN ABOUT NIKO": "I can tell you a bunch of stuff about Niko. Let me know what’s interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)\nWhen you're ready you can always say 'connect' to talk to Niko. %[Connect with Niko](postback:connect_with_niko)",
     "CONNECT": "Cool! He loves getting intros from NikoBot. You can either message him via LinkedIn or connect directly to chat with him. %[LinkedIn](https://ph.linkedin.com/in/nikolaijaro) %[E-mail](mailto:nikolai.jaro@gmail.com) %[Connect Me](postback:connect_directly)",
-    "CONNECT WITH NIKO": "Cool! He loves getting intros from NikoBot. You can either message him via LinkedIn or connect directly to chat with him. %[LinkedIn](https://ph.linkedin.com/in/nikolaijaro) %[E-mail](mailto:nikolai.jaro@gmail.com) %[Connect Me](postback:connect_directly)",
+    "CONNECT WITH NIKO": "Cool! He loves getting intros from NikoBot. You can either message him via LinkedIn or connect directly to chat with him. %[LinkedIn](https://ph.linkedin.com/in/nikolaijaro) %[Connect Me](postback:connect_directly) %[Send him an e-mail](mailto:nikolai.jaro@gmail.com) ",
     "I LOVE YOU": "Awh! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, NikoBot is back."
