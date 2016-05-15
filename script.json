@@ -8,6 +8,7 @@
     "CONNECT": "Cool! He loves getting intros from NikoBot. You can either message him via LinkedIn or connect directly to chat with him. %[LinkedIn](https://ph.linkedin.com/in/nikolaijaro) %[E-mail](mailto:nikolai.jaro@gmail.com) %[Connect Me](postback:connect_directly)",
     "CONNECT WITH NIKO": "Cool! He loves getting intros from NikoBot. You can either message him via LinkedIn or connect directly to chat with him. %[LinkedIn](https://ph.linkedin.com/in/nikolaijaro) %[Connect Me](postback:connect_directly)",
     "I LOVE YOU": "Awh! I love you too!",
+    "ONE RANDOM FACT!": "Ready for this? "
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, NikoBot is back."
 }
