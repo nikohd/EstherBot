@@ -8,7 +8,10 @@
     "CONNECT": "Cool! He loves getting intros from NikoBot. You can either message him via LinkedIn or connect directly to chat with him. %[LinkedIn](https://ph.linkedin.com/in/nikolaijaro) %[E-mail](mailto:nikolai.jaro@gmail.com) %[Connect Me](postback:connect_directly)",
     "CONNECT WITH NIKO": "Cool! He loves getting intros from NikoBot. You can either message him via LinkedIn or connect directly to chat with him. %[LinkedIn](https://ph.linkedin.com/in/nikolaijaro) %[Connect Me](postback:connect_directly)",
     "I LOVE YOU": "Awh! I love you too!",
-    "ONE RANDOM FACT!": "Ready for this? "
+    "ONE RANDOM FACT!": "Ready for this? Niko spends a lot of time in the tech community. He's an active member of LinusTechTips, he usually lurks around the Hardware Forums, but he would also go to the Troubleshooting Forums to help other members out. He loves wasting time watching various videos about PC Building, the latest Tech News from NCIX, and ofcourse - from Linus Media Group. %[I want another](postback:another_random_fact)",
+    "I WANT ANOTHER": "Niko used to do video editing back in high-school and has once decided to pursue a career in Multimedia Arts on his way to college. Unfortunately, Niko isn't that good when it comes to drawing - trust me, he's really bad at it. (shh) %[Cool! More factoids!](postback:more_facts) %[Nah](postback:return_to_main)",
+    "COOL! MORE FACTOIDS!": "He's a 'flashaholic' -- flashing different kinds of ROM to your android device. He loves everything about Android, he tries to dig deep just to get every bit of information he needs to become an Android Power User. %[Another please](postback:another_fact) %[Nah](postback:return_to_main)",
+    "NAH": "Ok, why not dig in to other stuff %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, NikoBot is back."
 }
